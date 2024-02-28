@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=AC LÝNE 1 Pin=j1-1
+Removed Pin From Net: NetName=AC LÝNE 2 Pin=j1-2
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Added Pin To Net: NetName=AC LÝNE 2 Pin=j1-1
+Added Pin To Net: NetName=AC LÝNE 1 Pin=j1-2

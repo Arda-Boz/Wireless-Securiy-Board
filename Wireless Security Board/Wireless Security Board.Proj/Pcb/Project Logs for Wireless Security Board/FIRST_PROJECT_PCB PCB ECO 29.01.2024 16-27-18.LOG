@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=Microcontroller Member=C32
+Removed Member From Class: ClassName=Sensor Board Member=D5
+Removed Member From Class: ClassName=Microcontroller Member=D7
+Removed Member From Class: ClassName=Power Manengement Member=D7
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAP 1206"; UniqueID = "\VCHYHHYN" ("\VCHYHHYN")
+Change component parameters (AddParameter): Name = "Category"; Value = "Aluminum Electrolytic Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/5365/kem-a4002-eev-535332-5365784.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/5365/kem-a4002-eev-535332-5365784.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designed By"; Value = "Arda B."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "EEV686M035A9HAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0,44, 10=0,299, 50=0,299, 100=0,203, 1000=0,16, 10000=0,139 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "14057"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "80-EEV686M035A9HAA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "68uF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Microcontroller Member=Component C16 0603N200J500CT
+Added Member To Class: ClassName=Microcontroller Member=Component C18 CL21A475KAQNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C24 08055C104KAT2A
+Added Member To Class: ClassName=Microcontroller Member=Component C26 08055C104KAT2A
+Added Member To Class: ClassName=Microcontroller Member=Component C27 CL21B105KAFNNNE
+Added Member To Class: ClassName=Microcontroller Member=Component C29 08055C104KAT2A
+Added Member To Class: ClassName=Microcontroller Member=Component C30 08055C104KAT2A
+Added Member To Class: ClassName=Microcontroller Member=Component C31 CL21B105KAFNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C33 0603B103K160CT
+Added Member To Class: ClassName=Sensor Board Member=Component C34 C3216X5R1C336M160AB
+Added Member To Class: ClassName=Sensor Board Member=Component C35 08055C104KAT2A
+Added Member To Class: ClassName=Sensor Board Member=Component C37 08055C104KAT2A
+Added Member To Class: ClassName=Sensor Board Member=Component C39 CL21A475KAQNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C41 08055C104KAT2A
+Added Member To Class: ClassName=Sensor Board Member=Component C43 CL21B105KAFNNNE
+Added Member To Class: ClassName=Sensor Board Member=Component C45 CL21A475KAQNNNE
+Added Member To Class: ClassName=Power Manengement Member=Component D2 1N4148WS
+Added Member To Class: ClassName=Microcontroller Member=Component D6 1N4148WS
+Added Member To Class: ClassName=Sensor Board Member=Component D8 LS R976-NR-1
+Added Member To Class: ClassName=Power Manengement Member=Component R4 RC0603FR-0710KL
+Added Member To Class: ClassName=Microcontroller Member=Component R18 RMCF0603FT4K70
+Added Member To Class: ClassName=Microcontroller Member=Component R23 RMCF0603FT100R

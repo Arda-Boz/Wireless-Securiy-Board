@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [FIRST-PROJECT.PrjPcb]
+   Generated File[Pick Place for FIRST_PROJECT_PCB.txt]
+   Generated File[Pick Place for FIRST_PROJECT_PCB.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 16:51:26 On 7.02.2024

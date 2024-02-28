@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\ARDA\Desktop\Altium\ALTÝUM PROJECT\FÝRST PROJECT\FIRST-PROJECT\Pcb\FIRST_PROJECT_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=first_project_pcb-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=first_project_pcb-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V DC Pin=C7-2
+Removed Pin From Net: NetName=5V DC Pin=C13-2
+Removed Pin From Net: NetName=5V DC Pin=D5-1
+Removed Pin From Net: NetName=5V DC Pin=L1-2
+Removed Pin From Net: NetName=5V DC Pin=U1-4
+Change Component Description : Designator=L1 Old Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes New Description=Power Inductor, Aec-Q200, 47Uh, 0.39A Rohs Compliant: Yes |Wurth Elektronik 78438335470
+Added Pin To Net: NetName=5VDC Pin=C7-2
+Added Pin To Net: NetName=5VDC Pin=C13-2
+Added Pin To Net: NetName=5VDC Pin=D5-1
+Added Pin To Net: NetName=5VDC Pin=L1-2
+Added Pin To Net: NetName=5VDC Pin=U1-4

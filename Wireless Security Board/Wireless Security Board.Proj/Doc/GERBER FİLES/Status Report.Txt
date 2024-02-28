@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FIRST-PROJECT.PrjPcb]
+   Generated File[FIRST_PROJECT_PCB.GTO]
+   Generated File[FIRST_PROJECT_PCB.GTP]
+   Generated File[FIRST_PROJECT_PCB.GTS]
+   Generated File[FIRST_PROJECT_PCB.GTL]
+   Generated File[FIRST_PROJECT_PCB.GP1]
+   Generated File[FIRST_PROJECT_PCB.GP2]
+   Generated File[FIRST_PROJECT_PCB.GBL]
+   Generated File[FIRST_PROJECT_PCB.GBS]
+   Generated File[FIRST_PROJECT_PCB.GBP]
+   Generated File[FIRST_PROJECT_PCB.GBO]
+   Generated File[FIRST_PROJECT_PCB.GM1]
+   Generated File[FIRST_PROJECT_PCB.GKO]
+   Generated File[FIRST_PROJECT_PCB.GPT]
+   Generated File[FIRST_PROJECT_PCB.GPB]
+   Generated File[FIRST_PROJECT_PCB.GM]
+   Generated File[FIRST_PROJECT_PCB.EXTREP]
+   Generated File[FIRST_PROJECT_PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 14:56:04 On 7.02.2024
